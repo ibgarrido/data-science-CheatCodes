@@ -1,0 +1,9 @@
+1. docker ps
+
+    Permite leer todas las imagenes montadas. 
+
+2. docker run --name myname -p XXXX:XXXX -d IMAGE 
+
+    permite crear una isntancia de imagen en el puerto XXXX:XXXX con el nombre myname
+
+3. 
